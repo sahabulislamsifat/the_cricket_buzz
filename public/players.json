@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/vjTm73Z/player1.jpg",
+        "player_name": "James Anderson",
+        "player_nationality": "England",
+        "player_identity": "Bowler",
+        "rating": "Rating",
+        "bowling_style": "Right-arm fast",
+        "batting_style": "Left-handed",
+        "price": 500000
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/ZG1WZdX/player2.webp",
+        "player_name": "Virat Kohli",
+        "player_nationality": "India",
+        "player_identity": "Batsman",
+        "rating": "Rating",
+        "bowling_style": "N/A",
+        "batting_style": "Right-handed",
+        "price": 700000
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/306Q5yB/player3.jpg",
+        "player_name": "Kane Williamson",
+        "player_nationality": "New Zealand",
+        "player_identity": "Batsman",
+        "rating": "Rating",
+        "bowling_style": "Right-arm fast-medium",
+        "batting_style": "Right-handed",
+        "price": 600000
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/mtrgs0z/player4.webp",
+        "player_name": "Steve Smith",
+        "player_nationality": "Australia",
+        "player_identity": "Batsman",
+        "rating": "Rating",
+        "bowling_style": "N/A",
+        "batting_style": "Left-handed",
+        "price": 650000
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/bvGXzKH/player5.webp",
+        "player_name": "Joe Root",
+        "player_nationality": "England",
+        "player_identity": "Batsman",
+        "rating": 45,
+        "bowling_style": "Right-arm fast-medium",
+        "batting_style": "Right-handed",
+        "price": 550000
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co.com/xG892qC/player6.jpg",
+        "player_name": "AB de Villiers",
+        "player_nationality": "South Africa",
+        "player_identity": "All-Rounder",
+        "rating": "Rating",
+        "bowling_style": "N/A",
+        "batting_style": "Left-handed",
+        "price": 750000
+    },
+    {
+        "id": 7,
+        "cover": "https://i.ibb.co.com/g3X5T2G/player7.jpg",
+        "player_name": "Ben Stokes",
+        "player_nationality": "England",
+        "player_identity": "All-Rounder",
+        "rating": "Rating",
+        "bowling_style": "Right-arm medium-fast",
+        "batting_style": "Left-handed",
+        "price": 680000
+    },
+    {
+        "id": 8,
+        "cover": "https://i.ibb.co.com/0DhMR6B/player8.webp",
+        "player_name": "Rohit Sharma",
+        "player_nationality": "India",
+        "player_identity": "Batsman",
+        "rating": "Rating",
+        "bowling_style": "N/A",
+        "batting_style": "Right-handed",
+        "price": 620000
+    },
+    {
+        "id": 9,
+        "cover": "https://i.ibb.co.com/jH7PsT7/player9.webp",
+        "player_name": "Babar Azam",
+        "player_nationality": "Pakistan",
+        "player_identity": "Batsman",
+        "rating": "Rating",
+        "bowling_style": "N/A",
+        "batting_style": "Right-handed",
+        "price": 590000
+    },
+    {
+        "id": 10,
+        "cover": "https://i.ibb.co.com/JC0nKxp/player10.webp",
+        "player_name": "Jasprit Bumrah",
+        "player_nationality": "India",
+        "player_identity": "Bowler",
+        "rating": "Rating",
+        "bowling_style": "Right-arm fast",
+        "batting_style": "Right-handed",
+        "price": 580000
+    },
+    {
+        "id": 11,
+        "cover": "https://i.ibb.co.com/pRYYZY4/player11.jpg",
+        "player_name": "Shane Warne",
+        "player_nationality": "Australia",
+        "player_identity": "Bowler",
+        "rating": "Rating",
+        "bowling_style": "Right-arm leg break",
+        "batting_style": "Right-handed",
+        "price": 500000
+    },
+    {
+        "id": 12,
+        "cover": "https://i.ibb.co.com/hybNcgL/player12.jpg",
+        "player_name": "Muttiah Muralitharan",
+        "player_nationality": "Sri Lanka",
+        "player_identity": "Bowler",
+        "rating": "Rating",
+        "bowling_style": "Right-arm off break",
+        "batting_style": "Right-handed",
+        "price": 720000
+    },
+    {
+        "id": 13,
+        "cover": "https://i.ibb.co.com/VC4w8mq/player13.jpg",
+        "player_name": "Brian Lara",
+        "player_nationality": "West Indies",
+        "player_identity": "Batsman",
+        "rating": "Rating",
+        "bowling_style": "N/A",
+        "batting_style": "Left-handed",
+        "price": 750000
+    },
+    {
+        "id": 14,
+        "cover": "https://i.ibb.co.com/Vj0CRp9/player14.jpg",
+        "player_name": "Jacques Kallis",
+        "player_nationality": "South Africa",
+        "player_identity": "All-Rounder",
+        "rating": "Rating",
+        "bowling_style": "Right-arm fast-medium",
+        "batting_style": "Right-handed",
+        "price": 700000
+    },
+    {
+        "id": 15,
+        "cover": "https://i.ibb.co.com/wgbX1GR/player15.jpg",
+        "player_name": "Virender Sehwag",
+        "player_nationality": "India",
+        "player_identity": "Batsman",
+        "rating": "Rating",
+        "bowling_style": "N/A",
+        "batting_style": "Left-handed",
+        "price": 630000
+    }
+]
